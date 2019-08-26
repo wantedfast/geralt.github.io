@@ -1,12 +1,12 @@
-{
+﻿{
   "githubUsername": "wantedfast",
   "blogTitle": "Geralt",
-  "blogDescribe": "Welcome to Geralt's Blog",
-  "htmlTitle": "Geralt",
-  "fontColor": "#ffffff",
+  "blogDescribe": "求知若渴，虚怀若谷",
+  "htmlTitle": "Geralt Wang",
+  "fontColor": "#8A2BE2",
   "useBackgroundImage": true,
-  "backgroundColorLeft": "Blue",
-  "backgroundColorRight": "Green",
+  "backgroundColorLeft": "#6495ED",
+  "backgroundColorRight": "#48D1CC",
   "audioUrl": "static/Mp3/",
   "mini": false,
   "webSites": [
