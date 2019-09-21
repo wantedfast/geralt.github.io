@@ -7,7 +7,7 @@
   "useBackgroundImage": true,
   "backgroundColorLeft": "#6495ED",
   "backgroundColorRight": "#48D1CC",
-  "audioUrl": "static/Mp3/",
+  "audioUrl": "./static/Mp3/Cecile Corbel - 荒れた庭.flac",
   "mini": false,
   "webSites": [
     {}
